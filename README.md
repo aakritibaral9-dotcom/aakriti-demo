@@ -1,5 +1,5 @@
 # aakriti-demo
 This is my first Git Repository
 <br>
-Author: Aakriti Bhandari
+Author: Aakriti Baral
 age:20
